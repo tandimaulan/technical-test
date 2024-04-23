@@ -1,4 +1,4 @@
-Tentu, berikut penjelasan gabungan untuk algoritma dan kodingan:
+### Penjelasan kodingan dan algoritma
 
 ### 1. Fibonacci Algorithm dan FibonacciService:
 Algoritma untuk menghitung bilangan Fibonacci menggunakan metode rekursi sederhana. Fungsi `fibonacci(n)` menerima bilangan bulat `n` sebagai parameter dan mengembalikan bilangan Fibonacci ke-n. Jika `n` kurang dari atau sama dengan 1, nilai `n` dikembalikan. Jika tidak, fungsi akan memanggil dirinya sendiri untuk menghitung nilai Fibonacci dari `n - 1` dan `n - 2`, dan kemudian menjumlahkan keduanya.
@@ -64,7 +64,6 @@ public class NonPalindromService {
 }
 ```
 
-Anda benar, mari jelaskan juga bagian Controller:
 
 ### 3. Controller class:
 ```java
